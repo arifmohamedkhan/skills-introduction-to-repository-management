@@ -1,7 +1,13 @@
-# Core functionality - changes here should be rare!
-/src/app.py                   @arifmohamedkhan
-/src/backend/database.py      @arifmohamedkhan
-/src/backend/routers/auth.py  @arifmohamedkhan
+# Owners for all files
+* @arifmohamedkhan
 
-# The frontend will need refactored soon to be more object oriented.
-/src/static/   @arifmohamedkhan
+# Owners for documentation files
+*.md @arifmohamedkhan
+
+# Owners for core backend files
+/src/app.py @arifmohamedkhan
+/src/backend/database.py @arifmohamedkhan
+/src/backend/routers/auth.py @arifmohamedkhan
+
+# Owners for static files (frontend)
+/src/static/ @arifmohamedkhan
